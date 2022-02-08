@@ -1,6 +1,6 @@
 ## React.js CRUD App with Json Server Using Axios
 
-Build a React.js CRUD Application to consume Web API, display and modify data with Router, Axios & Naterial UI.
+Build a React.js CRUD Application to consume Web API, display and modify data with Router, Axios & Material UI.
 
 React Tutorial Application in that:
 
@@ -25,6 +25,7 @@ Compiles and hot-reloads for development
      or
     yarn start
 
+need to run json server using command : json-server --watch db.json
 
 Open http://localhost:3000 to view it in the browser.
 
